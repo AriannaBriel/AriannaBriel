@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently creating a portfolio website for enhanced accessibility<br>🧑🏽‍🎓 Junior at Baylor University, studying Piano performance and Computer Science<br>💻 Interested in exploring web/ app design and full stack development
+🚀 Currently creating a portfolio website for enhanced accessibility<br>🧑🏽‍🎓 Senior at Baylor University, studying Piano performance and Computer Science<br>💻 Interested in exploring web/ app design and full stack development
 
 
 ## 🌐 Socials:
